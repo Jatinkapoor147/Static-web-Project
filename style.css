@@ -243,6 +243,7 @@ a>i:hover {
     padding: 5px 8px;
     margin: 8px;
     font-family: 'Sanchez', serif;
+    border: 2px solid black;
     box-shadow: 2px 2px 0px 1px rgba(0,0,0,1);
     -webkit-box-shadow: 2px 2px 0px 1px rgba(0,0,0,1);
     -moz-box-shadow: 2px 2px 0px 1px rgba(0,0,0,1);
